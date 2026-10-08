@@ -1,0 +1,10 @@
+BÀI TẬP GIT SỐ 1
+
+Họ tên: Nguyễn Minh Đợi
+MSSV: ........................
+Lớp: .........................
+Môn học: Git và GitHub
+
+Nội dung:
+Thực hành tạo Repository,
+clone, add, commit và push.
